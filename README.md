@@ -1,7 +1,9 @@
-### Привет 👋
+
+### 
+<h1 align="center">Привет 👋
 
 Меня зовут Александра! 🙋
-
+### 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
