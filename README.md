@@ -1,6 +1,6 @@
-### Hi there 👋
+### Привет 👋
 
-My name is Alexandra Radionova 🙋
+Меня зовут Александра! 🙋
 
 Here are some ideas to get you started:
 
